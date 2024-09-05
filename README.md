@@ -29,4 +29,4 @@ Este proyecto consiste en la creación de una página web interactiva que consum
 
 1. Clona este repositorio en tu máquina local.
    ```bash
-   git clone https://github.com/tuusuario/pokedex-web.git
+   git clone (https://github.com/Cheis18/poke-api.git)
